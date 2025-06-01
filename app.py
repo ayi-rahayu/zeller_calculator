@@ -21,9 +21,9 @@ def hitung_hari(tanggal, bulan, tahun):
     return hari_dict[h]
 
 # --- Tampilan App ---
-st.set_page_config(page_title="Kalkulator Hari", page_icon="📆")
+st.set_page_config(page_title="Zeller Calculator", page_icon="📆")
 
-st.title("📅 Kalkulator Hari dari Tanggal")
+st.title("📅 Zeller Calculator")
 st.write("Masukkan tanggal, bulan, dan tahun untuk mengetahui harinya.")
 
 # Input pengguna

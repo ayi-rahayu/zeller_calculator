@@ -141,7 +141,7 @@ Aplikasi ini dibuatkan juga versi Web nya, cukup buka link berikut:
 
 [![Buka Aplikasi Web](https://img.shields.io/badge/%F0%9F%9A%80%20Buka%20Aplikasi%20Web-blue?logo=streamlit)](https://zellerkalkulator.streamlit.app/)
 
-🔗 **[https://zellerkalkulator.streamlit.app/](https://zellerkalkulator.streamlit.app/)**
+🔗 **[https://www.zellerkalkulator.com/](https://zellerkalkulator.streamlit.app/)**
 
 ---
 

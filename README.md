@@ -23,7 +23,7 @@ Fungsi ini digunakan untuk menentukan apakah suatu tahun adalah tahun kabisat at
 ```python
 def is_kabisat(tahun):
     return (tahun % 4 == 0 and tahun % 100 != 0) or (tahun % 400 == 0)
-
+```
 📖 Penjelasan:
 - Tahun yang habis dibagi 4 adalah kabisat,
 - Kecuali jika juga habis dibagi 100 (bukan kabisat),
